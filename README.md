@@ -1,2 +1,1 @@
-# mobilprogramozasbeadando
-Obzut Dávid
+
